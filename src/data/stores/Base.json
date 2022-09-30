@@ -1,0 +1,266 @@
+[
+    {
+    "captionName":"Huawei Nova 8",
+    "routerLink":"nova8",
+    "description":"6x(2.22 ГГц), 8 Гб, 2 SIM, OLED, 2340x1080, камера 64+8+2+2 Мп, NFC, 4G, GPS, 3800 мА*ч ",
+    "price":27999,
+    "type":"smartphones",
+    "image": "nova8.webp"
+    },
+    {
+    "captionName":"Huawei Nova 9",
+    "routerLink":"nova9",
+    "description":"8x(2.4 ГГц, 2.3 ГГц, 1.9 ГГц), 8 Гб, 2 SIM, OLED, 2340x1080, камера 50+8+2+2 Мп, NFC, 4G, GPS, 4300 мА*ч",
+    "price":27999,
+    "type":"smartphones",
+    "image": "nova9.webp"
+    },
+    {
+    "captionName":"Huawei Nova 8i",
+    "routerLink":"nova8i",
+    "description":"8x(2 ГГц, 1.8 ГГц), 6 Гб, 2 SIM, IPS, 2376x1080, камера 64+8+2+2 Мп, NFC, 4G, GPS, 4300 мА*ч",
+    "price":21999,
+    "type":"smartphones",
+    "image": "nova8i.webp"
+    },
+    {
+    "captionName":"Huawei Nova 9 SE",
+    "routerLink":"nova9se",
+    "description":"8x(2.4 ГГц, 1.9 ГГц), 8 Гб, 2 SIM, IPS, 2388x1080, камера 108+8+2+2 Мп, NFC, 4G, GPS, 4000 мА*ч",
+    "price":20999,
+    "type":"smartphones",
+    "image": "nova9se.webp"
+    },
+    {
+    "captionName":"Huawei P50 Pro",
+    "routerLink":"p50pro",
+    "description":"8x(2.84 ГГц, 2.42 ГГц, 1.8 ГГц), 8 Гб, 2 SIM, OLED, 2700х1228, камера 64+50+40+13 Мп, NFC, 4G, GPS, 4360 мА*ч",
+    "price":69999,
+    "type":"smartphones",
+    "image": "p50pro.webp"
+    },
+    {
+    "captionName":"Huawei P50 Pocket",
+    "routerLink":"p50pocket",
+    "description":"8x(2.84 ГГц, 2.42 ГГц, 1.8 ГГц), 8 Гб, 2 SIM, OLED, 2790х1188, камера 40+32+13 Мп, NFC, 4G, GPS, 4000 мА*ч",
+    "price":89999,
+    "type":"smartphones",
+    "image": "p50pocket.webp"
+    },
+    {
+    "captionName":"HUAWEI MateBook D 14 NbB-WAI9",
+    "routerLink":"NbB-WAI9",
+    "description":"1920x1080, IPS, Intel Core i3-10110U, ядра: 2 х 2.1 ГГц, RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics 620 , Windows 10 Home",
+    "price":44999,
+    "type":"notebooks",
+    "image": "NbB-WAI9.webp"
+    },
+    {
+    "captionName":"HUAWEI MateBook D16 RLEF-X",
+    "routerLink":"RLEF-X",
+    "description":"1920x1200, IPS, Intel Core i5-12500H, ядра: 4 + 8 х 2.5 ГГц, RAM 16 ГБ, SSD 512 ГБ, Intel Iris Xe Graphics , Windows 11 Home",
+    "price":74999,
+    "type":"notebooks",
+    "image": "RLEF-X.webp"
+    },
+    {
+    "captionName":"HUAWEI MateBook 14 KLVD-WFH9",
+    "routerLink":"KLVD-WFH9",
+    "description":"2160x1440, IPS, Intel Core i5-1135G7, ядра: 4 х 2.4 ГГц, RAM 16 ГБ, SSD 512 ГБ, Intel Iris Xe Graphics , Windows 10 Home",
+    "price":76999,
+    "type":"notebooks",
+    "image": "KLVD-WFH9.webp"
+    },
+    {
+    "captionName":"HUAWEI MateBook 14S HKD-W76",
+    "routerLink":"HKD-W76",
+    "description":"2520x1680, IPS, Intel Core i7-11370H, ядра: 4 х 3.3 ГГц, RAM 16 ГБ, SSD 512 ГБ, Intel Iris Xe Graphics , Windows 10 Home",
+    "price":119999,
+    "type":"notebooks",
+    "image": "HKD-W76.webp"
+    },
+    {
+    "captionName":"HUAWEI MateBook 16s CREF-X",
+    "routerLink":"CREF-X",
+    "description":"2560x1680, IPS, Intel Core i9-12900H, ядра: 6 + 8, RAM 16 ГБ, SSD 1000 ГБ, Intel Iris Xe Graphics , Windows 11 Home",
+    "price":129999,
+    "type":"notebooks",
+    "image": "CREF-X.webp"
+    },
+    {
+    "captionName":"HUAWEI MateBook X Pro MACHD-WFE9Q",
+    "routerLink":"MACHD-WFE9Q",
+    "description":"3000x2000, IPS, Intel Core i7-1165G7, ядра: 4 х 2.8 ГГц, RAM 16 ГБ, SSD 512 ГБ, Intel Iris Xe Graphics , Windows 10 Home",
+    "price":124999,
+    "type":"notebooks",
+    "image": "MACHD-WFE9Q.webp"
+    },
+    {
+    "captionName":"HUAWEI MatePad Pro 12.6' (53011ULX)",
+    "routerLink":"53011ULX",
+    "description":"2560x1600, OLED, 8x3.1 ГГц, 2.54 ГГц, 2.05 ГГц, 8-256ГБ, BT, GPS, 10050 мА*ч, HarmonyOS 2",
+    "price":57999,
+    "type":"tablets",
+    "image": "53011ULX.webp"
+    },
+    {
+    "captionName":"HUAWEI MatePad Pro 11' (53013GAK)",
+    "routerLink":"53013GAK",
+    "description":"2560x1600, OLED, 8x2.8 ГГц, 8-256ГБ, BT, GPS, 8300 мА*ч, HarmonyOS 3",
+    "price":53999,
+    "type":"tablets",
+    "image": "53013GAK.webp"
+    },
+    {
+    "captionName":"HUAWEI MatePad Pro 10.8' (53012EJJ)",
+    "routerLink":"53012EJJ",
+    "description":"2560x1600, IPS, 8x2.4 ГГц, 1.8 ГГц, 3.2 ГГц, 8-128ГБ, BT, GPS, 7250 мА*ч, HarmonyOS 2, стилус",
+    "price":50999,
+    "type":"tablets",
+    "image": "53012EJJ.webp"
+    },
+    {
+    "captionName":"HUAWEI WATCH GT 3 Pro Titanium",
+    "routerLink":"watch3protitanium",
+    "description":"корпус - серебристый, ремешок - серый, 1.43', AMOLED, 466x466, IP68, Bluetooth, для Android 6.0+, HarmonyOS 2+, iOS 9+",
+    "price":22999,
+    "type":"wearables",
+    "image": "watch3protitanium.webp"
+    },
+    {
+    "captionName":"HUAWEI WATCH GT 3 Pro Titanium",
+    "routerLink":"watch3protitaniums",
+    "description":"корпус - серебристый, ремешок - черный, 1.43', AMOLED, 466x466, IP68, Bluetooth, для Android 6.0+, HarmonyOS 2+, iOS 9+",
+    "price":22999,
+    "type":"wearables",
+    "image": "watch3protitaniums.webp"
+    },
+    {
+    "captionName":"HUAWEI WATCH GT 3 Pro Ceramic",
+    "routerLink":"watch3proceramic",
+    "description":"корпус - керамика, ремешок - белый, 1.32', AMOLED, 466x466, IP68, Bluetooth, для Android 6.0+, HarmonyOS 2+, iOS 9+",
+    "price":34999,
+    "type":"wearables",
+    "image": "watch3proceramic.webp"
+    },
+    {
+    "captionName":"HUAWEI WATCH GT 3 Pro Leather",
+    "routerLink":"watch3proleather",
+    "description":"корпус - серебристый, ремешок - кожа,  1.43', AMOLED, 466x466, IP68, Bluetooth, для Android 6.0+, HarmonyOS 2+, iOS 9+",
+    "price":33999,
+    "type":"wearables",
+    "image": "watch3proleather.webp"
+    },
+    {
+    "captionName":"HUAWEI WATCH GT 3 Pro Ceramic",
+    "routerLink":"watch3proceramicleather",
+    "description":"корпус - керамика, ремешок - кожа,  1.32', AMOLED, 466x466, IP68, Bluetooth, для Android 6.0+, HarmonyOS 2+, iOS 9+",
+    "price":27999,
+    "type":"wearables",
+    "image": "watch3proceramicleather.webp"
+    },
+    {
+    "captionName":"HUAWEI Band 7 - Розовый",
+    "routerLink":"band7pink",
+    "description":"корпус - золотистый, ремешок - розовый, 1.47', AMOLED, 368x194, Wi-Fi, Bluetooth, для Android 6.0+, iOS 9+",
+    "price":3499,
+    "type":"wearables",
+    "image": "band7pink.webp"
+    },
+    {
+    "captionName":"HUAWEI Sound Joy - Зеленый",
+    "routerLink":"soundjoygreen",
+    "description":"30 Вт, Bluetooth, NFC, 8800 мА*ч, до 26ч работы",
+    "price":7999,
+    "type":"audio",
+    "image": "soundjoygreen.webp"
+    },
+    {
+    "captionName":"HUAWEI Sound Joy - Черный",
+    "routerLink":"soundjoyblack",
+    "description":"30 Вт, Bluetooth, NFC, 8800 мА*ч, до 26ч работы",
+    "price":7999,
+    "type":"audio",
+    "image": "soundjoyblack.webp"
+    },
+    {
+    "captionName":"Huawei FreeBuds Studio - Черный",
+    "routerLink":"freebudsstudioblack",
+    "description":"2.0, охватывающие, 4 Гц - 48000 Гц, Bluetooth, 5.2",
+    "price":20999,
+    "type":"audio",
+    "image": "freebudsstudioblack.webp"
+    },
+    {
+    "captionName":"Huawei X Gentle Monster Eyewear II",
+    "routerLink":"xgentlemonstereyewearii",
+    "description":"2.0, накладные, Bluetooth, 5.2",
+    "price":16999,
+    "type":"audio",
+    "image": "xgentlemonstereyewearii.webp"
+    },
+    {
+    "captionName":"Huawei FreeBuds Pro 2 - Белый",
+    "routerLink":"freebudspro2white",
+    "description":"2.0, внутриканальные, 14 Гц - 48000 Гц, Bluetooth, 5.2",
+    "price":14999,
+    "type":"audio",
+    "image": "freebudspro2white.webp"
+    },
+    {
+    "captionName":"Huawei FreeBuds Pro 2 - Голубой",
+    "routerLink":"freebudspro2blue",
+    "description":"2.0, внутриканальные, 14 Гц - 48000 Гц, Bluetooth, 5.2",
+    "price":14999,
+    "type":"audio",
+    "image": "freebudspro2blue.webp"
+    },
+    {
+    "captionName":"Huawei FreeBuds Pro 2 - Серый",
+    "routerLink":"freebudspro2grey",
+    "description":"2.0, внутриканальные, 14 Гц - 48000 Гц, Bluetooth, 5.2",
+    "price":14999,
+    "type":"audio",
+    "image": "freebudspro2grey.webp"
+    },
+    {
+    "captionName":"Huawei FreeBuds 4 - Серый",
+    "routerLink":"freebuds4grey",
+    "description":"2.0, вкладыши, Bluetooth, 5.2",
+    "price":9999,
+    "type":"audio",
+    "image": "freebuds4grey.webp"
+    },
+    {
+    "captionName":"Huawei FreeBuds 4 - Белый",
+    "routerLink":"freebuds4white",
+    "description":"2.0, вкладыши, Bluetooth, 5.2",
+    "price":9999,
+    "type":"audio",
+    "image": "freebuds4white.webp"
+    },
+    {
+    "captionName":"Huawei FreeBuds 4 - Красный",
+    "routerLink":"freebuds4red",
+    "description":"2.0, вкладыши, Bluetooth, 5.2",
+    "price":9999,
+    "type":"audio",
+    "image": "freebuds4red.webp"
+    },
+    {
+    "captionName":"Huawei Vision 55'",
+    "routerLink":"vision55",
+    "description":"4K UltraHD, 3840x2160, Wi-Fi, 120 Гц, Harmony OS, HDMI х 3, USB х 1",
+    "price":59999,
+    "type":"vision",
+    "image": "vision55.webp"
+    },
+    {
+    "captionName":"Huawei Vision 65'",
+    "routerLink":"vision65",
+    "description":"4K UltraHD, 3840x2160, Wi-Fi, 120 Гц, Harmony OS, HDMI х 3, USB х 1",
+    "price":89999,
+    "type":"vision",
+    "image": "vision65.webp"
+    }
+]
