@@ -1,0 +1,86 @@
+[
+    {
+    "captionName":"Волгоград",
+    "routerLink":"volgograd",
+    "adress":"г. Волгоград ТЦ Волгоград",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Грозный",
+    "routerLink":"grozny",
+    "adress":"г. Грозный ТЦ Грозный",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Пермь",
+    "routerLink":"perm",
+    "adress":"г. Пермь ТЦ Пермь",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Хабаровск",
+    "routerLink":"khabarovsk",
+    "adress":"г. Хабаровск ТЦ Хабаровск",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Якутск",
+    "routerLink":"yakutsk",
+    "adress":"г. Якутск ТЦ Якутск",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Махачкала",
+    "routerLink":"makhachkala",
+    "adress":"г. Махачкала ТЦ Махачкала",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Санкт-Петербург Север",
+    "routerLink":"spbnorth",
+    "adress":"г. Санкт-Петербург ТЦ Санкт-Петербург",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Санкт-Петербург Юг",
+    "routerLink":"spbsouth",
+    "adress":"г. Санкт-Петербург ТЦ Санкт-Петербург",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Омск",
+    "routerLink":"omsk",
+    "adress":"г. Омск ТЦ Омск",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Владивосток",
+    "routerLink":"vladivostok",
+    "adress":"г. Владивосток ТЦ Владивосток",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Архангельск",
+    "routerLink":"arkhangelsk",
+    "adress":"г. Архангельск ТЦ Архангельск",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    },
+    {
+    "captionName":"Калининград",
+    "routerLink":"kaliningrad",
+    "adress":"г. Калининград ТЦ Калининград",
+    "telephone":"+79999999999",
+    "email":"mail@hwshop.ru"
+    }
+]
