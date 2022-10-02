@@ -21,7 +21,7 @@ function App() {
 	}
 	return (
 		<div className='App'>
-			<div className='w-screen h-screen'>
+			<div className='w-screen h-full bg-slate-100'>
 				<Router>
 					<Navbar />
 					<AnimatedRoutes />

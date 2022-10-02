@@ -1,10 +1,11 @@
 import React from 'react'
 import { motion } from 'framer-motion'
+import { Link } from 'react-router-dom'
 
 const Banner = () => {
 	return (
-		<div className='mx-3 mt-10 neo rounded-xl max-w-full'>
-			<div className='flex flex-col lg:flex-row m-5 p-5 pb-0 mb-0 lg:m-10 lg:p-10 lg:pb-0 lg:mb-0'>
+		<div className='mt-10 neo rounded-xl rounded-b-none mx-3 bg-white'>
+			<div className='flex flex-col lg:flex-row m-5 p-5 pb-0 mb-0 lg:my-10 lg:p-10 lg:pb-0 lg:mb-0 mx-auto lg:max-w-6xl md:max-w-md max-w-2xl'>
 				<div className='flex flex-col'>
 					<div className='flex flex-row justify-center'>
 						<div className='text-3xl lg:text-5xl font-bold'>Huawei</div>
@@ -19,7 +20,7 @@ const Banner = () => {
 					</div>
 				</div>
 				{/* <div className='text-5xl font-medium'>MatePad 11</div> */}
-				<div className='flex-1 relative justify-end'>
+				<div className='flex-1'>
 					<motion.div
 						initial={{ x: '10%', zIndex: 30 }}
 						animate={{ x: 0, zIndex: 30 }}
@@ -46,9 +47,11 @@ const Banner = () => {
 				</div>
 			</div>
 			<div className='p-10'>
-				<button className='px-3 py-2 rounded-lg bg-red-600 text-white font-semibold'>
-					Подробнее
-				</button>
+				<Link key='totablets' to='/catalog/tablets'>
+					<button className='px-3 py-2 rounded-lg bg-red-600 text-white font-semibold'>
+						Подробнее
+					</button>
+				</Link>
 			</div>
 		</div>
 	)
