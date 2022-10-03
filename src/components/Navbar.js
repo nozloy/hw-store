@@ -1,6 +1,8 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
+import { GiHamburgerMenu } from 'react-icons/gi'
+import { FaShoppingBasket } from 'react-icons/fa'
 
 const Navbar = () => {
 	return (
@@ -42,11 +44,17 @@ const Navbar = () => {
 							<button className='navbar'>Vision</button>
 						</Link>
 					</div>
-					<a href='https://appgallery.huawei.com/#/Featured'>
-						<button className=' w-12 h-12 mr-4 rounded-xl neo'>
-							<img className='w-10 mx-auto' src={'/Logo.png'} alt='logo'></img>
+					<Link to={{ pathname: '/menu' }}>
+						<button
+							type='button'
+							className='lg:hidden w-12 h-12 mr-4 rounded-xl p-3 text-2xl neo bg-white'
+						>
+							<GiHamburgerMenu className='text-slate-800' />
 						</button>
-					</a>
+					</Link>
+					<button className='hidden lg:flex w-12 h-12 mr-4 rounded-xl p-3 text-2xl neo bg-white'>
+						<FaShoppingBasket className='text-slate-800' />
+					</button>
 				</div>
 			</motion.div>
 		</div>

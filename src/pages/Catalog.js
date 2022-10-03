@@ -10,7 +10,10 @@ const Catalog = () => {
 		<div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 2xl:xl:grid-cols-6 gap-4 px-10 pt-5'>
 			{filtered.map((device, i, arr) => {
 				return (
-					<div className='flex flex-col neo rounded-xl rounded-t-none p-5 mb-20 w-full lg:w-auto bg-white'>
+					<div
+						key={device.routerLink}
+						className='flex flex-col neo rounded-xl rounded-t-none p-5 mb-20 w-full lg:w-auto bg-white'
+					>
 						<div className='p-3 text-2xl font-bold text-slate-800'>
 							{device.captionName}
 						</div>
